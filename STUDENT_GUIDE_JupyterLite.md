@@ -94,8 +94,8 @@ If you ever want to continue your downloaded notebook later, you can drag it bac
 | **`NameError: name '...' is not defined`** | You probably ran cells out of order, or skipped one. Do **Kernel → Restart Kernel and Run All Cells**. |
 | **First cell takes very long / seems stuck** | The first run downloads Python and the libraries. Wait up to a minute and make sure you have internet. |
 | **A cell shows `[*]` and never finishes** | It may be waiting or stuck. Use **Kernel → Interrupt Kernel**, then run again. |
-| **I changed a file and broke it** | Reload the page: the original course files come back. Your other work in browser storage is kept. |
-| **Everything looks broken** | **Kernel → Restart Kernel and Run All Cells**. This fixes the large majority of issues. |
+| **Everything looks broken (errors everywhere)** | This is almost always the *running state*, not your file. Do **Kernel → Restart Kernel and Run All Cells** — reloading the page also resets the running state. This fixes the large majority of issues. |
+| **I edited the notebook and want the ORIGINAL back** | Your saved edits live in the browser, so **a reload keeps them** (it does not undo your changes). To restore the original course version, clear this site's data in your browser (browser settings → *clear site data / browsing data* for this site), then reopen the link. Files you never edited are always the originals. |
 | **`FileNotFoundError` when reading a data file** | Make sure you are running the notebook from the course link (where the `data` folder is provided). If it persists, reload the page and tell the instructor. |
 
 ---
