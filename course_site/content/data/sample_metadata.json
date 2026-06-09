@@ -1,0 +1,32 @@
+{
+  "project": "Introductory Python for Materials Science",
+  "instrument": "Synthetic tensile tester",
+  "operator": "demo",
+  "samples": {
+    "S01": {
+      "treatment": "annealed",
+      "diameter_nominal_mm": 5.02,
+      "gauge_length_mm": 25.0
+    },
+    "S02": {
+      "treatment": "annealed",
+      "diameter_nominal_mm": 4.98,
+      "gauge_length_mm": 25.0
+    },
+    "S03": {
+      "treatment": "quenched",
+      "diameter_nominal_mm": 5.01,
+      "gauge_length_mm": 25.0
+    },
+    "S04": {
+      "treatment": "aged",
+      "diameter_nominal_mm": 5.0,
+      "gauge_length_mm": 25.0
+    },
+    "S05": {
+      "treatment": "as_received",
+      "diameter_nominal_mm": 4.99,
+      "gauge_length_mm": 25.0
+    }
+  }
+}
