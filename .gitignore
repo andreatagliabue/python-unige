@@ -6,6 +6,12 @@ dist/
 # Jupyter checkpoints
 **/.ipynb_checkpoints/
 
+# Notebook-generated outputs (recreated on run; not source)
+# lesson 1 writes tensile_summary_by_sample.csv next to the notebook;
+# lesson 3 writes a results/ folder. The deployed input copies live in course_site/content/data/.
+**/notebooks/tensile_summary_by_sample.csv
+**/results/
+
 # Python
 __pycache__/
 *.pyc
