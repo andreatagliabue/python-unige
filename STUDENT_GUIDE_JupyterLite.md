@@ -12,11 +12,11 @@ This single link opens everything. You can also jump straight to a specific less
 
 | Lesson | Link |
 |---|---|
-| 1 — Introduction | https://andreatagliabue.github.io/python-unige/notebooks/index.html?path=01_introduction.ipynb |
-| 2 — Python basics | https://andreatagliabue.github.io/python-unige/notebooks/index.html?path=02_python_basics.ipynb |
-| 3 — Data I/O and tables | https://andreatagliabue.github.io/python-unige/notebooks/index.html?path=03_data_io_and_tables.ipynb |
-| 4 — Plotting and analysis | https://andreatagliabue.github.io/python-unige/notebooks/index.html?path=04_plotting_and_analysis.ipynb |
-| 5 — Fitting, statistics, automation | https://andreatagliabue.github.io/python-unige/notebooks/index.html?path=05_fitting_stats_automation.ipynb |
+| 1 — Introduction | https://andreatagliabue.github.io/python-unige/lab/index.html?path=01_introduction.ipynb |
+| 2 — Python basics | https://andreatagliabue.github.io/python-unige/lab/index.html?path=02_python_basics.ipynb |
+| 3 — Data I/O and tables | https://andreatagliabue.github.io/python-unige/lab/index.html?path=03_data_io_and_tables.ipynb |
+| 4 — Plotting and analysis | https://andreatagliabue.github.io/python-unige/lab/index.html?path=04_plotting_and_analysis.ipynb |
+| 5 — Fitting, statistics, automation | https://andreatagliabue.github.io/python-unige/lab/index.html?path=05_fitting_stats_automation.ipynb |
 
 > **Tip:** bookmark the course home so you can always find it. Open it in a **normal** browser window (not Private/Incognito — see Section 5).
 
