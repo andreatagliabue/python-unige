@@ -4,21 +4,13 @@ Welcome! In this course you will write and run Python directly **in your web bro
 
 ---
 
-## Course links
+## The one link you need
 
 **Course home:** **https://andreatagliabue.github.io/python-unige/**
 
-This single link opens everything. You can also jump straight to a specific lesson:
+That single link opens **everything** — all the lessons and the data are already there. When it loads, you will see a file browser on the left: just **double-click the lesson** you want (e.g. `01_introduction.ipynb`) and it opens in the center.
 
-| Lesson | Link |
-|---|---|
-| 1 — Introduction | https://andreatagliabue.github.io/python-unige/lab/index.html?path=01_introduction.ipynb |
-| 2 — Python basics | https://andreatagliabue.github.io/python-unige/lab/index.html?path=02_python_basics.ipynb |
-| 3 — Data I/O and tables | https://andreatagliabue.github.io/python-unige/lab/index.html?path=03_data_io_and_tables.ipynb |
-| 4 — Plotting and analysis | https://andreatagliabue.github.io/python-unige/lab/index.html?path=04_plotting_and_analysis.ipynb |
-| 5 — Fitting, statistics, automation | https://andreatagliabue.github.io/python-unige/lab/index.html?path=05_fitting_stats_automation.ipynb |
-
-> **Tip:** bookmark the course home so you can always find it. Open it in a **normal** browser window (not Private/Incognito — see Section 5).
+> **Tip:** bookmark this link so you can always find it. Open it in a **normal** browser window (not Private/Incognito — see Section 5).
 
 ---
 
@@ -41,7 +33,7 @@ This single link opens everything. You can also jump straight to a specific less
 ## 2. Opening the course
 
 1. Open your browser.
-2. Go to the **course home** (or pick a lesson from the **Course links** table at the top of this guide):
+2. Go to the **course home**:
 
    > **https://andreatagliabue.github.io/python-unige/**
 
