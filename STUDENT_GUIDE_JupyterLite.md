@@ -1,6 +1,6 @@
 # Student Guide — Working with JupyterLite
 
-Welcome! In this course you will write and run Python directly **in your web browser**, using a tool called **JupyterLite**. There is **nothing to install**, **no account to create**, and **nothing to download**: when you open the course link, all the notebooks and data files are already there. This short guide tells you everything you need. Read it once before the first lesson.
+Welcome! In this course you will write and run Python directly **in your web browser**, using a tool called **JupyterLite**. There is **nothing to install**, **no account to create**, and **nothing to download**: when you open the course link, the lesson and data files for that session are already there. This short guide tells you everything you need. Read it once before the first lesson.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome! In this course you will write and run Python directly **in your web bro
 
 **Course home:** **https://andreatagliabue.github.io/python-unige/**
 
-That single link opens **everything** — all the lessons and the data are already there. When it loads, you will see a file browser on the left: just **double-click the lesson** you want (e.g. `01_introduction.ipynb`) and it opens in the center.
+That link opens the course. When it loads, you will see a file browser on the left with the lesson(s) and data files for the current session: just **double-click the notebook** (e.g. `01_introduction.ipynb`) and it opens in the center.
 
 > **Tip:** bookmark this link. Always open it in a **Private / Incognito** window (see Section 1 for why).
 
@@ -25,7 +25,6 @@ That single link opens **everything** — all the lessons and the data are alrea
 
 - A laptop (Windows, macOS, or Linux — it does not matter).
 - A recent version of **Google Chrome, Microsoft Edge, or Firefox**. Avoid Internet Explorer and very old browsers.
-- An **internet connection**, especially the first time you open it (the browser downloads Python and the scientific libraries the first time — this can take 30–60 seconds).
 - Always open the course in a **Private / Incognito** window (Chrome: `Ctrl+Shift+N` / `Cmd+Shift+N`; Firefox: `Ctrl+Shift+P`). This ensures you always start from a clean, fresh environment — no leftover state from a previous session. The tradeoff is that your edits are not saved when you close the window; download your notebook before closing if you want to keep it (see Section 5).
 
 ---
@@ -77,7 +76,7 @@ If something behaves strangely, reset and start clean:
 
 ---
 
-## 5. Saving your work (please read — this is important!)
+## 5. Saving your work
 
 Because you are working in **Private / Incognito** mode, **your edits exist only for the duration of that window**. When you close the incognito window (or all incognito windows), the browser discards everything — your changes are gone.
 
